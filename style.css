@@ -53,7 +53,9 @@ body{
     right:15px;
     }
     .im{
-    transform:scale(1.2); }
+    transform:scale(1.2);
+    width: 100px;
+    }
     .tp{
     width:100%;
     font-size: 35px;
