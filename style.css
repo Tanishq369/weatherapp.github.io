@@ -1,6 +1,7 @@
 body{
     background-image: url('https://source.unsplash.com/720x600/?Climate,Weather');
     background-size: cover;
+    overflow: hidden;
     }
     .btn{
         outline:none;
