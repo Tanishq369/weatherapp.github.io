@@ -35,6 +35,9 @@ body{
     color:white;
     text-align:center;
     }
+    .weather-side:hover{
+    background-image: url('https://source.unsplash.com/720x600/?Weather,Climate');
+    }
     .inp{
     height:40px;
     width:210px;
