@@ -1,6 +1,5 @@
 body{
-    background-image: url('https://source.unsplash.com/720x600/?Climate,Weather');
-    background-size: cover;
+    background:darkorchid;
     }
     .btn{
         outline:none;
@@ -17,8 +16,8 @@ body{
     width:300px;
     height:80%;
     filter:lur;
-    background-image: url('https://source.unsplash.com/720x600/?Climate,Weather');
-    border-radius: 20px;
+    background-image:linear-gradient(20deg, #f1f1f1,darkorchid,#f1f1f1);
+    border-radius:20px;
     position: absolute;
     background-size: cover;
     top:0;
@@ -64,12 +63,22 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
     }
     .ico{
-    width: 100%;
+    width:100%;
     text-align:center;
     color:white;
     }
     .ctco{
     font-size: 22px;
+    }
+    .yt{
+    padding:5px;
+    width:90%;
+    height:30px;
+        color:white;
+        font-size:25px;
+        background:crimson;
+        position:absolute ;
+        bottom:10px;
     }
     a{
         text-decoration:none;
