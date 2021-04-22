@@ -12,10 +12,6 @@ body{
     color:white;
     transform:rotate(90deg);
     }
-.logo{
-    width: 10px;
-    cursor: pointer;
-}
     .con{
     padding:10px;
     width:300px;
