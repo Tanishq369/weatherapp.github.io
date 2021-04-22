@@ -64,9 +64,8 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
     }
     .ico{
+    width: 100%;
     text-align:center;
-    width: 10px;
-    cursor: pointer;
     color:white;
     }
     .ctco{
