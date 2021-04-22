@@ -69,6 +69,8 @@ body{
     }
     .ico{
     text-align:center;
+    width: 10px;
+    cursor: pointer;
     color:white;
     }
     .ctco{
