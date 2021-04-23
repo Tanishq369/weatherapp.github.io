@@ -81,12 +81,12 @@ body{
     }
     .tp{
     width: 100%;
-    font-size: 10vh;
+    font-size: 110px;
     font-weight: bold;
     color: black;
     }
     .dis{
-    font-size: 80px;
+    font-size: 90px;
     font-family: 'Source Sans Pro', sans-serif;
     color: black;
     }
@@ -96,11 +96,11 @@ body{
     color:white;
     }
     .ctco{
-    font-size: 55px;
+    font-size: 65px;
     color: black;
     }
     .mx{
-    font-size: 60px;
+    font-size: 70px;
     color: black;
     }
     a{
