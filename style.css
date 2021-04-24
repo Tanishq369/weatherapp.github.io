@@ -42,7 +42,7 @@ body{
         background-image: linear-gradient(135deg, #72edf2 10%, #5151e5 100%);
         background-size: cover;
         border-radius: 20px;
-        opacity: 0.6;
+        opacity: 0.7;
         top:0;
         left:0;
         right: 0px;
@@ -82,26 +82,25 @@ body{
     .tp{
     width: 100%;
     font-size: 200px;
-    font-weight: bold;
-    color: black;
+    color: white;
     }
     .dis{
     font-size: 180px;
     font-family: 'Source Sans Pro', sans-serif;
-    color: black;
+    color: white;
     }
     .ico{
     width:100%;
     text-align:center;
-    color:white;
+    color: white;
     }
     .ctco{
     font-size: 155px;
-    color: black;
+    color: white;
     }
     .mx{
     font-size: 160px;
-    color: black;
+    color: white;
     }
     a{
         text-decoration:none;
